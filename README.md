@@ -6,11 +6,6 @@ Flourish Focus combines the proven productivity of the Pomodoro Technique with a
 
 ---
 
-<div align="center">
-  
-  *A screenshot of the Flourish Focus application will be placed here.*
-
-</div>
 
 ---
 
