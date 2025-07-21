@@ -6,11 +6,6 @@ Flourish Focus combines the proven productivity of the Pomodoro Technique with a
 
 ---
 
-<div align="center">
-  
-  *A screenshot of the Flourish Focus application will be placed here.*
-
-</div>
 
 ---
 
@@ -41,7 +36,6 @@ This project is built with a modern, type-safe, and efficient technology stack:
 - **UI Library**: [React](https://react.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Component Library**: [ShadCN UI](https://ui.shadcn.com/)
-- **AI Integration**: [Genkit](https://firebase.google.com/docs/genkit)
 - **Icons**: [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 
 ## 🚀 Getting Started
