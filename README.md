@@ -36,7 +36,6 @@ This project is built with a modern, type-safe, and efficient technology stack:
 - **UI Library**: [React](https://react.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Component Library**: [ShadCN UI](https://ui.shadcn.com/)
-- **AI Integration**: [Genkit](https://firebase.google.com/docs/genkit)
 - **Icons**: [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 
 ## 🚀 Getting Started
